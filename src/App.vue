@@ -1,15 +1,15 @@
 <template>
-  <nav>
-    <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/about">About</RouterLink>
-  </nav>
+  <div class="flex h-screen bg-app p-[30px]">
+    <AppNavigation />
 
-  <RouterView />
+    <div class="w-2/4 rounded-[20px] p-5 bg-base">
+      <RouterView />
+    </div>
+  </div>
 </template>
 
 <script setup lang="ts">
-import { RouterLink, RouterView } from "vue-router";
-import HelloWorld from "./components/HelloWorld.vue";
+import AppNavigation from "./components/AppNavigation/AppNavigation.vue";
 </script>
 
 <style scoped></style>
