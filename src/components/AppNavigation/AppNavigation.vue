@@ -23,7 +23,7 @@
           >
             <img src="home/check.png" alt="voting" class="active:bg-hovered" />
             <span
-              class="px-[30px] text-center rounded-[10px] hover:bg-hovered hover:text-hover active:bg-active active:text-base font-medium text-xs letterSpacing-tightest text-hover py-2.5 text-center"
+              class="px-[30px] text-center rounded-[10px] hover:bg-hovered hover:text-hover active:bg-active active:text-base font-medium text-xs letterSpacing-tightest text-hover py-2.5"
             >
               VOTING
             </span>
@@ -37,7 +37,7 @@
           >
             <img src="home/cat.png" alt="breeds" class="active:bg-hovered" />
             <span
-              class="px-[30px] text-center rounded-[10px] hover:bg-hovered hover:text-hover active:bg-active active:text-base font-medium text-xs letterSpacing-tightest text-hover py-2.5 text-center"
+              class="px-[30px] text-center rounded-[10px] hover:bg-hovered hover:text-hover active:bg-active active:text-base font-medium text-xs letterSpacing-tightest text-hover py-2.5"
             >
               BREEDS
             </span>
@@ -51,9 +51,9 @@
           >
             <img src="home/phone.png" alt="gallery" class="active:bg-hovered" />
             <span
-              class="px-[30px] text-center rounded-[10px] hover:bg-hovered hover:text-hover active:bg-active active:text-base font-medium text-xs letterSpacing-tightest text-hover py-2.5 text-center"
+              class="px-[30px] text-center rounded-[10px] hover:bg-hovered hover:text-hover active:bg-active active:text-base font-medium text-xs letterSpacing-tightest text-hover py-2.5"
             >
-              GALLER
+              GALLERY
             </span>
           </router-link>
         </div>
